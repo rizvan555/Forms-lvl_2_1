@@ -7,6 +7,9 @@
 body {
   background-color: rgb(246, 246, 246);
   font-family: Arial, Helvetica, sans-serif;
+  border: 1px solid #000;
+  width: 500px;
+  margin: 200px auto;
 }
 
 header {
@@ -37,6 +40,7 @@ input {
   background-color: rgb(91, 216, 164);
   color: #fff;
   border: 1px solid #c3c3c3;
+  height: 35px;
 }
 .button:hover {
   background-color: #008000;
